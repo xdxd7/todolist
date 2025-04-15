@@ -1,0 +1,16 @@
+div {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.week-day {
+  border: 1px solid #ee6c6c;
+  padding: 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 120px;
+  text-align: center;
+}

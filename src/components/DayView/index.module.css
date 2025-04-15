@@ -1,0 +1,14 @@
+h2 {
+  color: rgb(240, 106, 191);
+}
+
+.day-view {
+  border: 1px solid #ee6c6c;
+  padding: 20px;
+  border-radius: 8px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
